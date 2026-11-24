@@ -1,0 +1,251 @@
+venda_id,data_venda,product_id,quantidade,filial,forma_pagamento
+V0001,2026-10-21,P004,1.0,Filial Sul,Cartão de Débito
+V0002,2026-10-08,P008,3.0,Filial Sul,PIX
+V0003,2026-10-22,P018,2.0,Filial Sul,Dinheiro
+V0004,2026-10-02,P001,2.0,Matriz - Centro,Cartão de Crédito
+V0005,2026-10-17,P020,,Filial Sul,Cartão de Crédito
+V0006,2026-10-23,P018,7.0,Matriz - Centro,Dinheiro
+V0007,2026-10-19,P009,1.0,Matriz - Centro,Dinheiro
+V0008,2026-10-11,P009,3.0,Matriz - Centro,Cartão de Débito
+V0009,2026-10-04,P003,7.0,Matriz - Centro,Cartão de Débito
+V0010,2026-10-28,P012,5.0,Matriz - Centro,Dinheiro
+V0011,2026-10-18,P004,7.0,Matriz - Centro,Cartão de Débito
+V0012,2026-10-27,P020,6.0,Filial Sul,Cartão de Crédito
+V0013,2026-10-23,P003,1.0,Filial Sul,Cartão de Crédito
+V0014,2026-10-25,P010,2.0,Matriz - Centro,PIX
+V0015,2026-10-13,P009,8.0,Filial Sul,Cartão de Débito
+V0016,2026-10-06,P012,-3.0,Matriz - Centro,Cartão de Débito
+V0017,2026-10-23,P003,3.0,Filial Sul,Cartão de Crédito
+V0018,2026-10-06,P015,7.0,Filial Norte,Cartão de Crédito
+V0019,2026-10-22,P011,1.0,Matriz - Centro,PIX
+V0020,2026-10-26,P011,7.0,Filial Norte,PIX
+V0021,2026-10-07,P019,6.0,Matriz - Centro,Dinheiro
+V0022,2026-10-13,P015,3.0,Filial Norte,Cartão de Crédito
+V0023,2026-10-08,P018,5.0,Filial Sul,Dinheiro
+V0024,2026-10-29,P019,7.0,Filial Norte,Cartão de Crédito
+V0025,2026-10-05,P017,8.0,Matriz - Centro,PIX
+V0026,2026-10-28,P004,3.0,Filial Sul,Cartão de Crédito
+V0027,2026-10-26,P014,2.0,Filial Norte,Dinheiro
+V0028,2026-10-20,P015,,Filial Sul,PIX
+V0029,2026-10-22,P004,5.0,Filial Sul,Cartão de Débito
+V0030,2026-10-04,P010,7.0,Matriz - Centro,Dinheiro
+V0031,2026-10-01,P009,3.0,Filial Sul,PIX
+V0032,2026-10-28,P010,4.0,Matriz - Centro,Cartão de Débito
+V0033,2026-10-25,P006,1.0,Filial Sul,Cartão de Débito
+V0034,2026-10-16,P001,2.0,Filial Norte,Cartão de Débito
+V0035,2026-10-08,P002,4.0,Filial Sul,PIX
+V0036,2026-10-03,P016,2.0,Filial Sul,Cartão de Crédito
+V0037,2026-10-05,P016,3.0,Filial Norte,Dinheiro
+V0038,2026-10-31,P007,4.0,Filial Sul,Cartão de Débito
+V0039,2026-10-13,P012,8.0,Filial Sul,Dinheiro
+V0040,2026-10-04,P008,4.0,Matriz - Centro,Cartão de Débito
+V0041,2026-10-01,P019,4.0,Filial Sul,Cartão de Crédito
+V0042,2026-10-01,P003,1.0,Matriz - Centro,PIX
+V0043,2026-10-29,P002,6.0,Matriz - Centro,Cartão de Crédito
+V0044,2026-10-09,P016,4.0,Filial Sul,Cartão de Crédito
+V0045,2026-10-24,P019,8.0,Matriz - Centro,Dinheiro
+V0046,2026-10-26,P014,4.0,Matriz - Centro,PIX
+V0047,2026-10-22,P014,6.0,Filial Norte,Dinheiro
+V0048,2026-10-15,P002,2.0,Matriz - Centro,Dinheiro
+V0049,2026-10-24,P011,0.0,Matriz - Centro,Cartão de Crédito
+V0050,2026-10-07,P018,8.0,Matriz - Centro,Dinheiro
+V0051,2026-10-06,P009,8.0,Matriz - Centro,PIX
+V0052,2026-10-15,P018,2.0,Matriz - Centro,PIX
+V0053,2026-10-03,P008,3.0,Filial Norte,Dinheiro
+V0054,2026-10-16,P007,7.0,Matriz - Centro,Cartão de Crédito
+V0055,2026-10-13,P001,7.0,Filial Norte,Dinheiro
+V0056,2026-10-10,P014,8.0,Matriz - Centro,Cartão de Crédito
+V0057,2026-10-10,P007,1.0,Filial Sul,PIX
+V0058,2026-10-24,P011,1.0,Matriz - Centro,Dinheiro
+V0059,2026-10-17,P017,3.0,Matriz - Centro,PIX
+V0060,2026-10-28,P006,2.0,Filial Sul,PIX
+V0061,2026-10-22,P008,7.0,Matriz - Centro,Cartão de Crédito
+V0062,2026-10-19,P020,1.0,Filial Sul,PIX
+V0063,2026-10-14,P019,6.0,Filial Norte,Cartão de Crédito
+V0064,2026-10-22,P011,,Filial Norte,Dinheiro
+V0065,2026-10-05,P010,8.0,Filial Norte,PIX
+V0066,2026-10-01,P015,2.0,Matriz - Centro,Cartão de Crédito
+V0067,2026-10-17,P009,3.0,Filial Norte,PIX
+V0068,2026-10-29,P008,6.0,Filial Norte,Cartão de Crédito
+V0069,2026-10-15,P018,5.0,Filial Sul,PIX
+V0070,2026-10-22,P018,5.0,Filial Sul,PIX
+V0071,2026-10-31,P005,5.0,Matriz - Centro,PIX
+V0072,2026-10-24,P018,3.0,Filial Norte,Cartão de Débito
+V0073,2026-10-20,P007,6.0,Matriz - Centro,Cartão de Débito
+V0074,2026-10-17,P016,5.0,Matriz - Centro,PIX
+V0075,2026-10-21,P014,5.0,Matriz - Centro,PIX
+V0076,2026-10-11,P005,5.0,Matriz - Centro,Dinheiro
+V0077,2026-10-18,P014,1.0,Matriz - Centro,PIX
+V0078,2026-10-31,P005,1.0,Filial Norte,Cartão de Crédito
+V0079,2026-10-14,P005,1.0,Filial Norte,Cartão de Débito
+V0080,2026-10-29,P002,6.0,Matriz - Centro,Cartão de Crédito
+V0081,2026-10-22,P004,6.0,Filial Sul,Dinheiro
+V0082,2026-10-20,P005,4.0,Matriz - Centro,Cartão de Crédito
+V0083,2026-10-29,P014,1.0,Matriz - Centro,Cartão de Débito
+V0084,2026-10-26,P014,4.0,Filial Norte,Cartão de Crédito
+V0085,2026-10-26,P004,7.0,Matriz - Centro,Dinheiro
+V0086,2026-10-08,P007,8.0,Filial Norte,Cartão de Débito
+V0087,2026-10-27,P008,4.0,Matriz - Centro,Cartão de Crédito
+V0088,2026-10-13,P011,5.0,Matriz - Centro,Cartão de Débito
+V0089,2026-10-12,P017,7.0,Filial Sul,Cartão de Débito
+V0090,2026-10-31,P001,2.0,Filial Norte,Cartão de Crédito
+V0091,2026-10-19,P009,1.0,Matriz - Centro,Dinheiro
+V0092,2026-10-12,P011,7.0,Filial Sul,PIX
+V0093,2026-10-13,P019,4.0,Filial Norte,PIX
+V0094,2026-10-23,P014,1.0,Filial Sul,Cartão de Crédito
+V0095,2026-10-12,P014,2.0,Filial Sul,Cartão de Débito
+V0096,2026-10-20,P011,450.0,Filial Sul,Cartão de Débito
+V0097,2026-10-17,P010,7.0,Filial Norte,Dinheiro
+V0098,2026-10-23,P010,3.0,Matriz - Centro,Dinheiro
+V0099,2026-10-22,P013,3.0,Filial Sul,Cartão de Débito
+V0100,2026-10-13,P018,1.0,Filial Norte,Cartão de Débito
+V0101,2026-10-07,P014,6.0,Filial Norte,Dinheiro
+V0102,2026-10-15,P007,8.0,Filial Sul,Cartão de Crédito
+V0103,2026-10-22,P003,5.0,Filial Sul,Cartão de Débito
+V0104,2026-10-03,P008,5.0,Matriz - Centro,Cartão de Crédito
+V0105,2026-10-05,P001,1.0,Matriz - Centro,Dinheiro
+V0106,2026-10-20,P003,8.0,Filial Norte,Cartão de Crédito
+V0107,2026-10-23,P013,8.0,Filial Norte,Cartão de Crédito
+V0108,2026-10-05,P001,2.0,Filial Norte,Cartão de Crédito
+V0109,2026-10-06,P017,8.0,Matriz - Centro,Cartão de Crédito
+V0110,2026-10-30,P004,8.0,Matriz - Centro,Dinheiro
+V0111,2026-10-22,P017,6.0,Filial Norte,Dinheiro
+V0112,2026-10-27,P018,8.0,Matriz - Centro,Dinheiro
+V0113,2026-10-15,P009,,Filial Sul,Cartão de Débito
+V0114,2026-10-25,P017,8.0,Filial Sul,Cartão de Crédito
+V0115,2026-10-09,P015,2.0,Filial Sul,Cartão de Débito
+V0116,2026-10-08,P009,6.0,Filial Norte,PIX
+V0117,2026-10-05,P005,4.0,Filial Norte,Cartão de Crédito
+V0118,2026-10-23,P007,2.0,Filial Norte,Dinheiro
+V0119,2026-10-11,P018,8.0,Filial Norte,PIX
+V0120,2026-10-07,P014,7.0,Filial Sul,PIX
+V0121,2026-10-28,P019,7.0,Filial Norte,PIX
+V0122,2026-10-31,P012,5.0,Filial Norte,Dinheiro
+V0123,2026-10-18,P018,4.0,Filial Norte,Cartão de Crédito
+V0124,2026-10-09,P014,8.0,Matriz - Centro,Dinheiro
+V0125,2026-10-11,P013,3.0,Filial Norte,Cartão de Crédito
+V0126,2026-10-20,P018,1.0,Filial Norte,PIX
+V0127,2026-10-03,P014,3.0,Filial Norte,Cartão de Crédito
+V0128,2026-10-02,P009,7.0,Filial Norte,Cartão de Crédito
+V0129,2026-10-15,P011,6.0,Filial Norte,Cartão de Débito
+V0130,2026-10-25,P014,5.0,Matriz - Centro,Dinheiro
+V0131,2026-10-01,P018,1.0,Filial Norte,Cartão de Crédito
+V0132,2026-10-21,P003,1.0,Matriz - Centro,Cartão de Crédito
+V0133,2026-10-07,P001,3.0,Matriz - Centro,Cartão de Crédito
+V0134,2026-10-16,P004,4.0,Filial Norte,Cartão de Débito
+V0135,2026-10-25,P012,3.0,Filial Sul,PIX
+V0136,2026-10-25,P006,5.0,Matriz - Centro,PIX
+V0137,2026-10-30,P010,7.0,Filial Norte,Cartão de Crédito
+V0138,2026-10-03,P019,4.0,Matriz - Centro,Cartão de Débito
+V0139,2026-10-28,P020,2.0,Filial Sul,PIX
+V0140,2026-10-12,P018,7.0,Filial Sul,Cartão de Débito
+V0141,2026-10-03,P017,6.0,Matriz - Centro,Dinheiro
+V0142,2026-10-27,P016,2.0,Filial Norte,Cartão de Débito
+V0143,2026-10-21,P015,3.0,Filial Norte,Cartão de Crédito
+V0144,2026-10-24,P017,5.0,Filial Sul,Dinheiro
+V0145,2026-10-15,P014,5.0,Filial Norte,Cartão de Crédito
+V0146,2026-10-27,P003,5.0,Filial Norte,Cartão de Crédito
+V0147,2026-10-25,P015,7.0,Filial Norte,PIX
+V0148,2026-10-16,P011,3.0,Filial Norte,Cartão de Crédito
+V0149,2026-10-12,P009,6.0,Filial Norte,Cartão de Débito
+V0150,2026-10-18,P001,4.0,Matriz - Centro,Cartão de Crédito
+V0151,2026-10-24,P014,8.0,Filial Sul,Cartão de Crédito
+V0152,2026-10-23,P016,8.0,Filial Norte,PIX
+V0153,2026-10-03,P010,4.0,Filial Norte,Cartão de Crédito
+V0154,2026-10-10,P019,6.0,Filial Norte,Cartão de Débito
+V0155,2026-10-14,P018,1200.0,Filial Norte,Dinheiro
+V0156,2026-10-09,P010,5.0,Matriz - Centro,PIX
+V0157,2026-10-24,P007,6.0,Matriz - Centro,Cartão de Crédito
+V0158,2026-10-07,P007,8.0,Filial Norte,Cartão de Débito
+V0159,2026-10-04,P007,5.0,Matriz - Centro,Cartão de Débito
+V0160,2026-10-06,P010,1.0,Filial Sul,Cartão de Crédito
+V0161,2026-10-09,P002,1.0,Filial Sul,Cartão de Débito
+V0162,2026-10-23,P005,8.0,Matriz - Centro,PIX
+V0163,2026-10-19,P010,8.0,Filial Norte,Dinheiro
+V0164,2026-10-11,P006,1.0,Filial Norte,Dinheiro
+V0165,2026-10-04,P003,7.0,Filial Norte,PIX
+V0166,2026-10-19,P002,3.0,Matriz - Centro,Cartão de Débito
+V0167,2026-10-03,P008,2.0,Filial Sul,Dinheiro
+V0168,2026-10-20,P020,4.0,Filial Sul,Dinheiro
+V0169,2026-10-15,P015,5.0,Filial Sul,Dinheiro
+V0170,2026-10-10,P019,1.0,Filial Sul,PIX
+V0171,2026-10-31,P007,4.0,Filial Norte,PIX
+V0172,2026-10-06,P008,3.0,Filial Sul,PIX
+V0173,2026-10-06,P001,7.0,Filial Norte,Dinheiro
+V0174,2026-10-10,P002,4.0,Filial Norte,Cartão de Débito
+V0175,2026-10-23,P015,2.0,Filial Sul,Cartão de Crédito
+V0176,2026-10-30,P009,4.0,Filial Norte,PIX
+V0177,2026-10-18,P008,3.0,Filial Norte,Cartão de Crédito
+V0178,2026-10-03,P002,3.0,Filial Norte,Cartão de Débito
+V0179,2026-10-15,P004,8.0,Filial Sul,Cartão de Débito
+V0180,2026-10-23,P013,5.0,Filial Sul,Dinheiro
+V0181,2026-10-15,P003,1.0,Filial Norte,Cartão de Débito
+V0182,2026-10-20,P009,1.0,Matriz - Centro,Cartão de Crédito
+V0183,2026-10-31,P019,1.0,Filial Sul,Cartão de Débito
+V0184,2026-10-19,P002,3.0,Filial Norte,Dinheiro
+V0185,2026-10-30,P009,3.0,Filial Sul,Dinheiro
+V0186,2026-10-21,P016,2.0,Filial Norte,Cartão de Débito
+V0187,2026-10-14,P011,6.0,Filial Sul,PIX
+V0188,2026-10-28,P006,6.0,Filial Norte,Dinheiro
+V0189,2026-10-10,P013,1.0,Filial Norte,PIX
+V0190,2026-10-11,P009,,Matriz - Centro,Dinheiro
+V0191,2026-10-28,P017,1.0,Filial Sul,Dinheiro
+V0192,2026-10-14,P002,4.0,Filial Sul,Cartão de Débito
+V0193,2026-10-20,P016,8.0,Matriz - Centro,Cartão de Crédito
+V0194,2026-10-09,P018,3.0,Filial Norte,Dinheiro
+V0195,2026-10-29,P016,2.0,Matriz - Centro,Cartão de Crédito
+V0196,2026-10-23,P006,5.0,Filial Sul,PIX
+V0197,2026-10-18,P014,2.0,Matriz - Centro,PIX
+V0198,2026-10-15,P004,3.0,Filial Norte,Cartão de Débito
+V0199,2026-10-17,P009,7.0,Filial Norte,Dinheiro
+V0200,2026-10-08,P015,3.0,Filial Norte,Cartão de Crédito
+V0201,2026-10-30,P020,3.0,Matriz - Centro,Cartão de Débito
+V0202,2026-10-25,P014,6.0,Filial Sul,Cartão de Débito
+V0203,2026-10-27,P001,5.0,Filial Sul,Cartão de Débito
+V0204,2026-10-27,P019,8.0,Matriz - Centro,Dinheiro
+V0205,2026-10-18,P016,6.0,Filial Norte,Dinheiro
+V0206,2026-10-15,P011,4.0,Filial Sul,Cartão de Crédito
+V0207,2026-10-19,P013,4.0,Filial Norte,PIX
+V0208,2026-10-11,P016,7.0,Filial Norte,Cartão de Crédito
+V0209,2026-10-16,P002,3.0,Filial Sul,Cartão de Débito
+V0210,2026-10-28,P004,8.0,Matriz - Centro,Dinheiro
+V0211,2026-10-01,P005,-10.0,Filial Sul,Cartão de Crédito
+V0212,2026-10-03,P016,5.0,Filial Norte,Dinheiro
+V0213,2026-10-21,P003,6.0,Filial Sul,Dinheiro
+V0214,2026-10-31,P011,8.0,Filial Sul,PIX
+V0215,2026-10-20,P003,4.0,Filial Sul,Cartão de Débito
+V0216,2026-10-08,P003,7.0,Matriz - Centro,PIX
+V0217,2026-10-15,P006,5.0,Matriz - Centro,PIX
+V0218,2026-10-11,P002,5.0,Filial Norte,Cartão de Débito
+V0219,2026-10-14,P005,4.0,Filial Sul,Dinheiro
+V0220,2026-10-19,P006,3.0,Matriz - Centro,PIX
+V0221,2026-10-20,P013,4.0,Filial Norte,Cartão de Crédito
+V0222,2026-10-08,P015,5.0,Filial Norte,Cartão de Débito
+V0223,2026-10-22,P001,8.0,Filial Norte,Cartão de Crédito
+V0224,2026-10-03,P015,6.0,Filial Sul,Cartão de Débito
+V0225,2026-10-21,P014,5.0,Filial Norte,Cartão de Débito
+V0226,2026-10-07,P013,8.0,Matriz - Centro,Cartão de Crédito
+V0227,2026-10-13,P019,6.0,Filial Sul,Cartão de Débito
+V0228,2026-10-23,P010,1.0,Filial Sul,Dinheiro
+V0229,2026-10-09,P001,1.0,Filial Sul,Dinheiro
+V0230,2026-10-27,P010,4.0,Filial Sul,Cartão de Débito
+V0231,2026-10-08,P007,5.0,Filial Sul,Cartão de Crédito
+V0232,2026-10-21,P004,,Filial Norte,Dinheiro
+V0233,2026-10-02,P019,6.0,Filial Sul,Cartão de Crédito
+V0234,2026-10-03,P010,6.0,Filial Sul,Dinheiro
+V0235,2026-10-06,P007,3.0,Filial Sul,Cartão de Débito
+V0236,2026-10-17,P017,5.0,Matriz - Centro,Cartão de Débito
+V0237,2026-10-30,P016,5.0,Filial Sul,Cartão de Débito
+V0238,2026-10-26,P004,8.0,Matriz - Centro,Cartão de Crédito
+V0239,2026-10-25,P008,7.0,Filial Sul,Cartão de Débito
+V0240,2026-10-03,P013,1.0,Filial Norte,PIX
+V0241,2026-10-15,P012,5.0,Filial Sul,Dinheiro
+V0242,2026-10-27,P012,2.0,Filial Sul,Cartão de Crédito
+V0243,2026-10-16,P001,6.0,Filial Sul,Cartão de Crédito
+V0244,2026-10-21,P003,8.0,Filial Sul,Cartão de Débito
+V0245,2026-10-21,P014,2.0,Matriz - Centro,PIX
+V0246,2026-10-31,P002,5.0,Filial Norte,PIX
+V0247,2026-10-04,P008,3.0,Filial Norte,Dinheiro
+V0248,2026-10-12,P018,7.0,Filial Sul,Cartão de Crédito
+V0249,2026-10-29,P014,2.0,Filial Norte,Dinheiro
+V0250,2026-10-31,P009,1.0,Filial Sul,Cartão de Débito

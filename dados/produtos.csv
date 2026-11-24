@@ -1,0 +1,21 @@
+product_id,nome_produto,categoria,preco_unitario
+P001,Arroz Branco 5kg,Mercearia,27.9
+P002,Feijão Carioca 1kg,Mercearia,8490.0
+P003,Café Torrado e Moído 500g,Mercearia,18.9
+P004,Azeite Extra Virgem 500ml,Mercearia,39.9
+P005,Macarrão Espaguete 500g,Mercearia,
+P006,Leite Integral 1L,Laticínios,5.29
+P007,Queijo Mussarela Fatiado 400g,Laticínios,22.5
+P008,Iogurte Natural 170g,Laticínios,3.8
+P009,Refrigerante Cola 2L,Bebidas,9.99
+P010,Suco de Laranja Integral 1L,Bebidas,11.5
+P011,Água Mineral sem Gás 1.5L,Bebidas,-29.0
+P012,Sabão em Pó 1.6kg,Limpeza,21.9
+P013,Detergente Líquido 500ml,Limpeza,2.69
+P014,Água Sanitária 2L,Limpeza,
+P015,Papel Higiênico 12 Rolos,Higiene,19.9
+P016,Shampoo Anticaspa 400ml,Higiene,24.9
+P017,Peito de Frango Congelado 1kg,Açougue,18.5
+P018,Carne Moída Patinho 1kg,Açougue,36.9
+P019,Banana Prata 1kg,Hortifruti,6.99
+P020,Maçã Gala 1kg,Hortifruti,9.49
